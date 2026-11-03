@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Claves privadas
+*.key
+
+# Otros registros
+*.log
+
+# Archivos de Windows
+Thumbs.db
